@@ -2,7 +2,7 @@
     <div class="category-container">
         <img @click="openMealDetails" v-bind:src="meal.strMealThumb" v-bind:alt="meal-strMeal" width="300">
         <p><b>{{ meal.strMeal }}</b></p>
-        <h6><b>Categoría</b>: {{ meal.strCategory }} | Origen: {{ meal.strArea }}</h6>
+        <!-- <h6><b>Categoría</b>: {{ meal.strCategory }} | Origen: {{ meal.strArea }}</h6>-->
   </div>
 </template>
 <script>
