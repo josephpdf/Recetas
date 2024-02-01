@@ -1,5 +1,5 @@
 <template>
-    <h1>Taller de Vue.js</h1>
+    <h1>Ejemplo de Vue.js</h1>
     <h2>Curso administración y programación de sitios web</h2>
     <h2>Colegio Universitario de Cartago</h2>
     <hr/>
